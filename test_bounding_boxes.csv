@@ -1,0 +1,9 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+object,138,179,75,47,vid_5_27440.jpg,676,380
+object,398,163,207,79,vid_5_27480.jpg,676,380
+object,195,169,139,66,vid_5_27860.jpg,676,380
+object,478,149,190,85,vid_5_27900.jpg,676,380
+object,357,179,125,62,vid_5_29460.jpg,676,380
+object,324,167,146,67,vid_5_31100.jpg,676,380
+object,342,166,130,64,vid_5_31140.jpg,676,380
+object,361,169,181,86,vid_5_31600.jpg,676,380
